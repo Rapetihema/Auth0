@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "auth0-angular-sample"
+    }
+  },
+  "defaultProject": "auth0-angular-sample",
+  "cli": {
+    "analytics": "6cf5e97a-ffeb-4060-8314-3a4a07e80f9a"
+  }
 }
